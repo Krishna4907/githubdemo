@@ -1,3 +1,3 @@
 # githubdemo
 This is my first git-repo
-Author- Krishna
+Author- Krishna Pandey
